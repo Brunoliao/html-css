@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+/*
+    id = # (só pode um id)
+    class = . (pode ter varios)
+*/
+body {
+    background-color: rgb(67, 230, 135);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(0, 32, 32);
+}
+
+h1#principal {
+    text-align: center;
+}
+h2 {
+    color:rgb(0, 64, 22)
+}
+
+.basico {
+    color: green;
+    }
+
+.intermediario {
+    color: yellow;
+}
+
+.avançado {
+    color: red;
+}
+
+.destaque {
+    background-color: rgba(255, 255, 0, 0.344);
+}
