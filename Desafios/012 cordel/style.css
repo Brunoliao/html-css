@@ -3,6 +3,7 @@
 * {
     margin: 0px;
     padding: 0px;
+    font-size: 1em;
 }
 
 @font-face {
@@ -12,7 +13,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
 
-header > h1 {
+h1 {
     font-family: 'Passion One';
     font-weight: bold;
 }
